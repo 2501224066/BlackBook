@@ -1,2 +1,0 @@
-# BlackBook
-Wuhan IT blacklist
